@@ -1,4 +1,3 @@
-#Premier
 Premier is a web application built with the MERN stack.
 In this application, there are the admin and the users section.
 The admin can add, update and delete rooms.
